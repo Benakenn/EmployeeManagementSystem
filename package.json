@@ -1,0 +1,27 @@
+{
+  "name": "employee-summary-engine",
+  "version": "1.0.0",
+  "description": "![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sequint/employee-summary-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sequint/employee-summary-engine/issues"
+  },
+  "homepage": "https://github.com/sequint/employee-summary-engine#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
