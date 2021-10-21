@@ -71,4 +71,4 @@ Testing files included under 'test' folder. Run: npm run test, inside the test f
 
 Contact me with questions about the project at my contact info below.
   
-  - Email: steve.e.quint@gmail.com
+  - Email: 
