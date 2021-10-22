@@ -14,8 +14,6 @@ Command line app that prompts user for employee information, then uses an html e
 
   - [Contributing](#Contributing)
 
-  - [Tests](#Tests)
-
   - [Links](#Links)
 
   - [Questions](#Questions)
