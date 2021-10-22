@@ -12,12 +12,6 @@ Command line app that prompts user for employee information, then uses an html e
 
   - [License](#License)
 
-  - [Contributing](#Contributing)
-
-  - [Links](#Links)
-
-  - [Questions](#Questions)
-
 ## Required
 
 - Inquirer: npm i inquirer
